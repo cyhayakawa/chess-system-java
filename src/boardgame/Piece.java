@@ -6,10 +6,6 @@ public class Piece {
 	
 	private Board board;
 	
-	public Piece() {
-		
-	}
-
 	public Piece(Board board) {
 		this.board = board;
 		position = null;
